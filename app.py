@@ -99,6 +99,7 @@ def random_api():
         res = answers_schema.dump(all_data)
         random_val = random.choice(res)
         question_print = random_val.get('question')
+        #return question_print
         return render_template('home.html', rad=question_print)
 
 

@@ -1,11 +1,11 @@
 This is a simple quiz web app made with python flask webframe , HTMLand CSS.
 
 
-Clone with origin master repo:-
+Clone with origin master repo:
 
 https://github.com/mikkelkhan/Simple-Quiz.git
 
-Install the requirement:-
+Install the requirement:
 
 pip install -r requirement.txt
 

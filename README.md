@@ -1,7 +1,7 @@
 This is a simple quiz web app made with python flask webframe , HTMLand CSS.
 
 
-Clone with origin repo:-
+Clone with origin master repo:-
 
 https://github.com/mikkelkhan/Simple-Quiz.git
 
